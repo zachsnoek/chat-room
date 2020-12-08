@@ -1,0 +1,18 @@
+#login-screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#login-screen h1 {
+    margin: 0 0 0 0;
+}
+
+#login-screen p {
+    margin-bottom: 30px;
+}
+
+#google-logo {
+    cursor: pointer;
+}
